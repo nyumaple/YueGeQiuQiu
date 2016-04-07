@@ -1,0 +1,50 @@
+body {
+    background-image: url(img/downloaded.jpg);
+    background-size: 100%, 100%;
+}
+
+.navbar-inverse {
+    background-color: rgba(0,0,0,0.8);
+    border-color: rgba(0,0,0,0.8);
+}
+
+.form-signin {
+    max-width: 600px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    margin-top:200px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: rgba(256, 256, 256, 0.4);
+    border-radius: 15px;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+div {
+    display: block;
+}
+
+.error{
+    color: red;
+    font-family: sans-serif;
+}
+
